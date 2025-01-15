@@ -1,0 +1,25 @@
+.tasklist_main{
+    padding: 10px;
+}
+
+.taskList li{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+    border-bottom: 1px solid grey;
+    border-top: 1px solid grey;
+}
+
+.delete_btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+   cursor: pointer;
+}
+
+.temperature{
+    font-weight: 400;
+}
