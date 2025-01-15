@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smart-todo/static/css/main.487b0cc4.css",
+    "main.js": "/smart-todo/static/js/main.fa55051d.js",
+    "static/media/assigned.svg": "/smart-todo/static/media/assigned.0312f14a6c20230da70fbf506ae63241.svg",
+    "static/media/star.svg": "/smart-todo/static/media/star.445cc78bf612d5ca5a0060ddf193b69e.svg",
+    "static/media/app-grid.svg": "/smart-todo/static/media/app-grid.73a88e5f8c811c866ca24dae4d8ddd48.svg",
+    "static/media/darklight.svg": "/smart-todo/static/media/darklight.4e6e4605ce1d857b6e131ef96a59ecf9.svg",
+    "static/media/alltask.svg": "/smart-todo/static/media/alltask.d92127bf507b12da5b9aa3499bbe7d4e.svg",
+    "static/media/planned.svg": "/smart-todo/static/media/planned.fee15dc2f055ce2f2d46bcabb1ccd1c4.svg",
+    "static/media/date.svg": "/smart-todo/static/media/date.cf24f5f7ed7b3bc70e7b3f449348ae84.svg",
+    "index.html": "/smart-todo/index.html",
+    "static/media/search.svg": "/smart-todo/static/media/search.6ff468c34488142e11093faac8356495.svg",
+    "static/media/delete.svg": "/smart-todo/static/media/delete.e83a11ade846d9661adb668daeaf4337.svg",
+    "static/media/menu.svg": "/smart-todo/static/media/menu.f14d22baa87feb249e42868223214a8d.svg",
+    "main.487b0cc4.css.map": "/smart-todo/static/css/main.487b0cc4.css.map",
+    "main.fa55051d.js.map": "/smart-todo/static/js/main.fa55051d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.487b0cc4.css",
+    "static/js/main.fa55051d.js"
+  ]
+}
